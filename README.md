@@ -1,2 +1,2 @@
-# state_machine_example
-An example of implementing a state machine for ATM
+# State Machine Tutorial
+An example of using a state machine to implement the logic behind an ATM
